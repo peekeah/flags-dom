@@ -1,0 +1,30 @@
+.container {
+    max-width: 15rem;
+    border-radius: 0.5rem;
+    overflow: hidden;
+    background-color: white;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.flag {
+    width: 100%;
+}
+
+.info {
+    padding: 1rem;
+}
+
+body {
+    background-color: whitesmoke;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 1rem;
+}
+
+span {
+    font-weight: bold;
+}
+
